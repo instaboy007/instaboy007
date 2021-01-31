@@ -9,6 +9,6 @@
 ⚡ Fun fact: Almost anything powered by electricity requires code.
 
 
-![Prashanth's github stats](https://github-readme-stats.vercel.app/api?username=instaboy007&theme=radicl)
+![Prashanth's github stats](https://github-readme-stats.vercel.app/api?username=instaboy007&show_icons=true&theme=radicl)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=instaboy007&theme=radicl)](https://github.com/instaboy007/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=instaboy007&show_icons=true&theme=radicl)](https://github.com/instaboy007/github-readme-stats)
