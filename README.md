@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on Nothing
 
-🌱 I’m currently learning NodeJs,ReactJs and Python
+🌱 I’m currently learning NodeJs, ReactJs and Python
 
 📫 How to reach me: Instagram Id @instaboy_oo7
 
