@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=instaboy007&label=Profile%20views&color=0e75b6&style=flat" alt="instaboy007" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=instaboy007" alt="instaboy007" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=instaboy007&theme=onedark" alt="instaboy007" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/instaboy007?tab=repositories](https://github.com/instaboy007?tab=repositories)
 
