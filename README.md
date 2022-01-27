@@ -60,4 +60,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=instaboy007&theme=nord" alt="instaboy007" /></p>
 
 
-[C Programming]: <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+[C Programming]:(<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>)
