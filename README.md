@@ -61,5 +61,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=instaboy007&theme=nord" alt="instaboy007" /></p>
 
-[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
-[C Programming]:<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="cprogramming" width="40" height="40">
+[C Programming[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="cprogramming" width="40" height="40">]](https://www.cprogramming.com/)
