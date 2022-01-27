@@ -4,8 +4,11 @@
   🔭 I’m currently looking  for an Intership
   🌱 I’m currently learning NodeJs and ReactJs
   ⚡ Fun fact: Almost anything powered by electricity requires code.
+  
   ![Prashanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=instaboy007&show_icons=true&theme=algolia)
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=instaboy007&show_icons=true&theme=algolia)](https://github.com/instaboy007/github-readme-stats)
+  
 </h3>
  
 <h3 align="left">Connect with me:</h3>
