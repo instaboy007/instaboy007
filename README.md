@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=instaboy007&theme=nord" alt="instaboy007" /></a></p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=instaboy007&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+
 - 👨‍💻 All of my projects are available at [https://github.com/instaboy007?tab=repositories](https://github.com/instaboy007?tab=repositories)
 
 - 📫 How to reach me **ssprashanth2002@gmail.com**
