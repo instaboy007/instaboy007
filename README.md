@@ -36,10 +36,10 @@
 | Other | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> |
  </p>
 
-<p><img align="left" width="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=instaboy007&theme=nord&show_icons=true&locale=en&layout=compact" alt="instaboy007" /></p>
+<p><img align="left" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs?username=instaboy007&theme=nord&show_icons=true&locale=en&layout=compact" alt="instaboy007" /></p>
 
-<p>&nbsp;<img align="left" width="150px" src="https://github-readme-stats.vercel.app/api?username=instaboy007&theme=nord&show_icons=true&locale=en" alt="instaboy007" /></p>
+<p>&nbsp;<img align="left" width="350px" src="https://github-readme-stats.vercel.app/api?username=instaboy007&theme=nord&show_icons=true&locale=en" alt="instaboy007" /></p>
 
-<p><img align="left" width="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=instaboy007&theme=nord" alt="instaboy007" /></p>
+<p><img align="left" width="350px" src="https://github-readme-streak-stats.herokuapp.com/?user=instaboy007&theme=nord" alt="instaboy007" /></p>
 
 
