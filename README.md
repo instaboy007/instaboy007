@@ -22,7 +22,7 @@
   
 
   
-| Languages and Tools            |
+| Languages and Tools|            |
 | ------------- | ------------- |
 | Programming Languages | [https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"] |
 | Content Cell  | Content Cell  |
