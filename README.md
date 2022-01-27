@@ -20,7 +20,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   
-[C Programming]: HEY
+[C Programming]:(https://www.linkedin.com/in/s-prashanth-648734229/)
   
 | Languages and Tools |           |
 | ------------- | ------------- |
