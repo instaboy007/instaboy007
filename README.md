@@ -10,6 +10,10 @@
 - 📫 How to reach me **ssprashanth2002@gmail.com**
 
 - ⚡ Fun fact **Almost anything powered by electricity requires code.**
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
