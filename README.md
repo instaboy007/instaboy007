@@ -24,7 +24,7 @@
   
 | Languages and Tools |           |
 | ------------- | ------------- |
-| Programming Languages | [CProgramming] |
+| Programming Languages | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>] |
 | Content Cell  | Content Cell  |
   
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -63,4 +63,4 @@
 
 
 
-[CProgramming]:https://www.linkedin.com/in/s-prashanth-648734229/
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>]:https://www.cprogramming.com/"
