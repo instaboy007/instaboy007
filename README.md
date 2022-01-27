@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Prashanth S</h1>
-<h3 align="center">Currently Pursuing M.Sc. Software Systems</h3>
+##<h1 align="center">Hi 👋, I'm Prashanth S</h1>
+##<h3 align="center">Currently Pursuing M.Sc. Software Systems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=instaboy007&label=Profile%20views&color=0e75b6&style=flat" alt="instaboy007" /> </p>
 
-<h3 align="left">GitHub Profile Trophy</h3>
+##<h3 align="left">GitHub Profile Trophy</h3>
 [![trophy](https://github-profile-trophy.vercel.app/?username=instaboy007&theme=nord&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 
