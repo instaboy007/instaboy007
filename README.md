@@ -40,6 +40,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=instaboy007&theme=nord&show_icons=true&locale=en" alt="instaboy007" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=instaboy007&theme=nord" alt="instaboy007" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=instaboy007&theme=nord" alt="instaboy007" /></p>
 
 
