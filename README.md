@@ -1,21 +1,4 @@
-<h1 align="left">Hi there This is Prashanth S👋</h1>
-<h3 align="left">I am currently pursuing Master's degree in Software Systems</h3>
-
-🔭 I’m currently looking  for an Intership
-  
-🌱 I’m currently learning NodeJs and ReactJs
-  
-⚡ Fun fact: Almost anything powered by electricity requires code.
-  
-
-![Prashanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=instaboy007&show_icons=true&theme=algolia)
-  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=instaboy007&show_icons=true&theme=algolia)](https://github.com/instaboy007/github-readme-stats)
-  
-</h3>
- 
- <h1 align="center">Hi 👋, I'm Prashanth S</h1>
+<h1 align="center">Hi 👋, I'm Prashanth S</h1>
 <h3 align="center">Currently Pursuing M.Sc. Software Systems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=instaboy007&label=Profile%20views&color=0e75b6&style=flat" alt="instaboy007" /> </p>
