@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=instaboy007&label=Profile%20views&color=0e75b6&style=flat" alt="instaboy007" /> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=instaboy007&theme=nord&title=MultiLanguage,Joined2020,Commits,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=instaboy007&theme=nord&title=Stars,Followers,PullRequest,Issues)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/instaboy007?tab=repositories](https://github.com/instaboy007?tab=repositories)
