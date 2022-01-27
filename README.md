@@ -62,4 +62,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=instaboy007&theme=nord" alt="instaboy007" /></p>
 
 
-[C Programming]:https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg
+[C Programming]:<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="cprogramming" width="40" height="40">
