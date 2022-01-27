@@ -37,9 +37,11 @@
  </p>
 
 <p><img align="left" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs?username=instaboy007&theme=nord&show_icons=true&locale=en&layout=compact" alt="instaboy007" /></p>
-<br>
+
+
 <p>&nbsp;<img align="left" width="500px" src="https://github-readme-stats.vercel.app/api?username=instaboy007&theme=nord&show_icons=true&locale=en" alt="instaboy007" /></p>
-<br>
+
+
 <p><img align="left" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=instaboy007&theme=nord" alt="instaboy007" /></p>
 
 
